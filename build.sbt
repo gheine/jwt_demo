@@ -17,5 +17,5 @@ libraryDependencies ++= Seq(
   "io.circe"             %% "circe-parser"         % circeVersion,
   "io.circe"             %% "circe-java8"          % circeVersion,
   "ch.qos.logback"        % "logback-classic"      % "1.2.3",
-  "com.pauldijou"        %% "jwt-core"             % "0.13.0"
+  "com.pauldijou"        %% "jwt-circe"            % "0.13.0"
 )
